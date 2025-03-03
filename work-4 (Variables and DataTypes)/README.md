@@ -1,22 +1,22 @@
-# Variables and Data Types in Python.
+# Variables and Data Types in Python 
 
 ## Variables:
-Variables are like a container which stores data. It is exactly like containers of your home like.
+Variables are like containers that store data. They are exactly like containers in your home. 
 <br>
-The value of a variable stores in your computer's memory with an address the variable is like a short name and simple name of that address.
+The value of a variable is stored in your computer's memory with an address. The variable is like a short and simple name for that address.
 
-### Short Defination of Variables :
+### Short Definition of Variables:
 A variable is a named storage location that holds a value.
 
-### Long Defination of variables:
-A variable is a symbolic repersentation of a storage location in memory that holds a value of specifc data type. which can be changed, updated, or manipulated.
+### Long Definition of Variables:
+A variable is a symbolic representation of a storage location in memory that holds a value of a specific data type, which can be changed, updated, or manipulated.
 
-### Critaria of Defining variable in python:
-While difining variables in python we should keep these things in mind.
-- You don't need to specify the data type of the variable. Python will automatically ditect it on the basis of assinged value.
-- First charachter of your variable should be a letter.
-- Choose a unique name of every variable of an program
-- Only use valid characters like letters (a to z, A to Z), digits (0 - 9), and undrescores(_).
+### Criteria for Defining Variables in Python:
+While defining variables in Python, we should keep these things in mind:
+- You don't need to specify the data type of the variable. Python will automatically detect it based on the assigned value.
+- The first character of your variable should be a letter.
+- Choose a unique name for every variable in a program.
+- Only use valid characters like letters (a to z, A to Z), digits (0 - 9), and underscores (_).
 
 ### Difining a variable in Python:
 To difine a variable in python, you can use the following syntax:
