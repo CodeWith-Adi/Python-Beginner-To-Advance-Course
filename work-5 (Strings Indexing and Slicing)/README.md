@@ -5,7 +5,7 @@ A string is a sequence of characters such as letters, numbers and symbols, that 
 
 ## Characterstics of Strings:
 - Sequence of characters: A string is a collection of charachters, each with it's own position and index.
-- Immutable : In python Strings are immutable, meaning that once a string, its contents cannot be modified.
+- Immutable : In python Strings are immutable, meaning that once a string defined, its contents cannot be modified.
 - Orderd : The characters in a string have a specific order, and this order cannot be changed.
 - Finite : A string has a finite length, meaning that it cannot contain an infinite numbers of characters.
 
