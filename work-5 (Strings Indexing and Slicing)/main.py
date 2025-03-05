@@ -1,0 +1,1 @@
+My_string = "Hello World"
