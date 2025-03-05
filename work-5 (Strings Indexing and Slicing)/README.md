@@ -70,3 +70,7 @@ my_string = "Hello"
 print(my_string[1:]) # This will print "ello"
 print(my_string[:-1]) # This will print "Hell"
 ```
+
+## Watch this video for better understanding :-
+
+# Thanks for Reading...
