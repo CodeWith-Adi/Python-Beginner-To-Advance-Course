@@ -180,6 +180,6 @@ print(type(comp))
 
 #### We will see this all Types in detail in other chapters.
 
-#### For study in detail cheack out this video: 
+#### For study in detail cheack out this video: https://youtu.be/QWtes9Lbhcs
 
 ## Thanks for your ataintion.

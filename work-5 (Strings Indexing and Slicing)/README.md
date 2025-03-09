@@ -71,6 +71,6 @@ print(my_string[1:]) # This will print "ello"
 print(my_string[:-1]) # This will print "Hell"
 ```
 
-## Watch this video for better understanding :-
+## Watch this video for better understanding :- https://youtu.be/TuWpOE2upSI
 
 # Thanks for Reading...

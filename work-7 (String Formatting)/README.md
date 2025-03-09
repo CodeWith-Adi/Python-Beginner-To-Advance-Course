@@ -69,6 +69,6 @@ print(f"My name is {name} and I am {age} years old.")
 # Output: My name is Adi and I am 26 years old.
 ```
 
-### Watch this video for better understanding - 
+### Watch this video for better understanding - https://youtu.be/1ugtiIdA1Ok
 
 # Thanks for reading....
