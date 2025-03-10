@@ -63,10 +63,10 @@ print(a % b)
 ### Exponent:
 `(a ** b)` returns `a` raised to the power of `b`.
 ```python
-a = 2
-b = 7
-print(a + b)
-# Output: 7
+a = 3
+b = 2
+print(a ** b)
+# Output: 9
 ```
 
 ## Comparison Operators:
@@ -142,7 +142,7 @@ Example:
 ```python
 a = 5
 b = 3
-print(a > b and b < a>)
+print(a > b and b < a)
 # Output : True
 ```
 
