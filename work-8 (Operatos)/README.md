@@ -137,7 +137,7 @@ print(a <= b)
 Logical operators are Special Symbols combinning conditional statements to produce a boolean result.
 
 ### Logical And (and):
-Returns True if both conditions arfe true.
+Returns True if both conditions are true.
 Example:
 ```python
 a = 5
