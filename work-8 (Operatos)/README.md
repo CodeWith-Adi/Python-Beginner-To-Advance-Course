@@ -245,6 +245,6 @@ print(a)
 # Output : 25
 ```
 
-## For better understading watch this video: 
+## For better understading watch this video: https://youtu.be/YMrc1_R3uPk
 
 # Thanks for reading...
