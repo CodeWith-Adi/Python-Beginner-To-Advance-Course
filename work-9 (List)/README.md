@@ -139,6 +139,6 @@ print(my_list.count(2))  
 # Output: 2
 ```
 
-Watch this video for better understanding:
+Watch this video for better understanding: https://youtu.be/m-GtLWllHYE
 
 Thanks for reading...💝💝 
