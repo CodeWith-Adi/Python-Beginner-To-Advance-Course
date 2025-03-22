@@ -74,3 +74,5 @@ Returns the sum of all elements in the tuple (only works with numeric values).
 my_tuple = (1, 2, 3)
 print(sum(my_tuple))  # Output: 6
 ```
+
+For better understanding watch this video : https://youtu.be/k3mYT1V75t4
