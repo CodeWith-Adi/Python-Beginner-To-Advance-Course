@@ -21,10 +21,9 @@ set3 = set("Hello")  # Creates a set of unique characters: {'H', 'e', 'l', 'o'}
 - Mutable
 - Can contain different data types
 
-## On what bases sets change the elements.
+## On what bases sets change the index of elements.
 
-Sets automatically sort elements based on data type priority: first strings (in alphabetical order), 
-then numbers and in last boolean values if elements exists, for example:
+Sets automatically sort elements based on data type priority.
 ```python
 my_set = {"apple", 2, True, "banana", 1, False}
 # Output: {False, True, 2, 'apple', 'banana'}

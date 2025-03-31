@@ -1,7 +1,7 @@
-# # Using curly braces
-# set1 = {1, 2, 3, 4, 5}
+# Using curly braces
+# set1 = {1, 2, 5, 4, 3}
 
-# # Using set() constructor
+# Using set() constructor
 # set2 = set([1, 2, 3, 4, 5])
 # set3 = set("Hello")  # Creates a set of unique characters: {'H', 'e', 'l', 'o'}
 
@@ -24,7 +24,7 @@
 
 # # Removing all elements - Removes all elements from the set
 # numbers.clear()  # Removes all elements from the set
-# print(numbers)
+# print(numbers) 
 
 set1 = {1, 2, 3}
 set2 = {3, 4, 5}
