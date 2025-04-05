@@ -60,3 +60,5 @@ my_dict = {'name' : 'Jhon', 'age' : 30, 'city' : 'New York'}
 del my_dict['city']
 print(my_dict)
 ```
+
+# Watch this for better understanding : https://youtu.be/yA90-NGM2Qk
