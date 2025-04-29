@@ -29,5 +29,4 @@ status = "Adult" if age >= 18 else "not an adult"
 
 ## Best Practices
 - Use for simple conditions only
-- Avoid nested ternary operators
 - Keep the expressions short and clear
