@@ -26,3 +26,5 @@ fruits = ["apple", "banana", "orange"]
 for fruit in fruits:
     print(fruit)
 ```
+
+# Must watch this : https://youtu.be/43IY7S1QV-w

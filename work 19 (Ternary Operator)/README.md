@@ -31,4 +31,4 @@ status = "Adult" if age >= 18 else "not an adult"
 - Use for simple conditions only
 - Keep the expressions short and clear
 
-#https://youtu.be/gLisod1UAE8
+# https://youtu.be/gLisod1UAE8
