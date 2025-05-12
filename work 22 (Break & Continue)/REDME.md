@@ -10,14 +10,14 @@ The `break` statement exits the loop completely. Think of it like:
 ### Example:
 ```python
 # Finding a specific book in a library
-books = ["Harry Potter", "Lord of the Rings", "Python Basics", "Mathematics"]
-search_book = "Python Basics"
+numbers = [1, 3, 5, 7, 4, 8, 9, 2, 6]
+search_num = 9
 
-for book in books:
-    if book == search_book:
-        print(f"Found the book: {book}")
+for num in numbers:
+    if num == search_num:
+        print(f"Found the number: {num}")
         break    # Stop searching once found
-    print(f"Checking book: {book}")
+    print(f"Checking number: {num}")
 ```
 
 ## Continue Statement
