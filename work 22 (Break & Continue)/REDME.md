@@ -9,7 +9,7 @@ The `break` statement exits the loop completely. Think of it like:
 
 ### Example:
 ```python
-# Finding a specific book in a library
+# Finding a specific number in list
 numbers = [1, 3, 5, 7, 4, 8, 9, 2, 6]
 search_num = 9
 
