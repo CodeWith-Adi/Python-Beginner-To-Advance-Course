@@ -1,5 +1,12 @@
 # Python Functions Explained! 🐍
 
+# Defination
+In Python, a function is a reusable block of code that performs a specific task. It's like a mini-program within your program that you can call whenever you need it! Functions help make your code:
+- More organized 📋
+- Easier to reuse ♻️
+- Simpler to maintain 🛠️
+- Better structured 🏗️
+
 ## What is a Function? 🤔
 A function is like a magical box that can:
 - Take something in ⬇️
