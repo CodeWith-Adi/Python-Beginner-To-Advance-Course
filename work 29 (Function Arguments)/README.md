@@ -12,10 +12,7 @@ Arguments are values you pass to a function so it can do its job. Think of a ble
 def make_smoothie(fruit):
     print(f"Blending {fruit} into a smoothie!")
 
-make_smoothie("banana")  # Output: Blending banana into a smoothie!
-```
-
----
+make_smoothie("banana")  # Output: Blending banana into a -
 
 ## Types of Function Arguments 🧩
 
